@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "features/win-1",
+      "title": "new doc page",
+      "children": [],
+      "id": "3uqc7mvrz"
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Getting Started",
